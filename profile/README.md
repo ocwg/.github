@@ -10,6 +10,11 @@ The OCWG is a working group of inifinite canvas tool builders and users who are 
 - Develop a test bench for the standard to demonstrate capabilities of infinite canvas tools. (Similar to the [CSS Acid Tests](https://www.acidtests.org/))
 - Suggest changes to the JSON Canvas specification.
 
+## Get Involved
+
+- 📣 Read and participate in the [GitHub Discussions](https://github.com/orgs/ocwg/discussions).
+- 📝 Review the [initial spec](https://github.com/ocwg/spec/blob/initial-draft/README.md) and give us feedback.
+
 ## FAQ
 
 Q: Why not just push issues and pull requests to Obsidian's [JSON Canvas](https://jsoncanvas.org/)? Why the separate organization, website, and name?
