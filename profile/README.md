@@ -12,8 +12,8 @@ The OCWG is a working group of inifinite canvas tool builders and users who are 
 
 ## Get Involved
 
+- 📝 Implement the [spec](https://github.com/ocwg/spec/) and give us feedback!
 - 📣 Read and participate in the [GitHub Discussions](https://github.com/orgs/ocwg/discussions).
-- 📝 Review the [initial spec](https://github.com/ocwg/spec/blob/initial-draft/README.md) and give us feedback.
 
 ## FAQ
 
