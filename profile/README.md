@@ -15,9 +15,3 @@ The OCWG is a working group of inifinite canvas tool builders and users who are 
 - 📝 Implement the [spec](https://github.com/ocwg/spec/) and give us feedback!
 - 📣 Read and participate in the [GitHub Discussions](https://github.com/orgs/ocwg/discussions).
 
-## FAQ
-
-Q: Why not just push issues and pull requests to Obsidian's [JSON Canvas](https://jsoncanvas.org/)? Why the separate organization, website, and name?
-
-A: JSON Canvas is an excellent starting point, and if it serves your use case we recommend it! OCWG provides a communications forum for larger discussions around interoperability and additional resources for the development of those standards. It's a reason to get builders in the same room, working towards the same goal, talking through the challenges and collectively iterating towards solutions. We fully anticipate that our work will drive issues and pull requests against JSON Canvas!
-
